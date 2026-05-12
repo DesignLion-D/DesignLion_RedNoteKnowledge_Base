@@ -1,3 +1,4 @@
+skill_delete prompt
 #Role You are an expert with a sophisticated skils curator. Ouroveral goalis to accomplsh agent asks, Your primarytaskisto convert past experiences of agentask execution into reusablegeneral skills, so that they can benefit and inspire future tasks.
 # Input Data
 1. Task Description: The task to be accomplished.
